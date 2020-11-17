@@ -7,3 +7,4 @@
  
 ## ARCHITECTURE
 
+![Screenshot (509)](https://user-images.githubusercontent.com/37435024/99360156-2e4f6680-28d6-11eb-9509-15a71b1068d5.png)
